@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, OpenAI, JavaScript**
 
-- 📫 How to reach me <a href="mailo:forever120429@gmail"><img height="25em" src="https://github.com/morning120429/morning120429/blob/main/gmail.png" alt = "Gmail" /></a>
+- 📫 How to reach me <a href="mailto:forever120429@gmail.com"><img height="25em" src="https://github.com/morning120429/morning120429/blob/main/gmail.png" alt = "Gmail" /></a>
 - 📫 How to reach me <a href="https://t.me/tech_hosting"><img height="25em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
