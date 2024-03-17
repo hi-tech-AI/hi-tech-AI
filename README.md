@@ -64,7 +64,3 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ting-prado&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
-
----
-
-<div align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="600" alt="coding mario gif" /></div>
