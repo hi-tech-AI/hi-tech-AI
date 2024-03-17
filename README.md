@@ -1,17 +1,21 @@
 <h1 align="center"> Senior Python Developer </h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
+</div>
+<br/>
 <img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadgaming01&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadgaming01" /> </p>
 
 - 🔭 I’m currently working on **Python developer**
 
-- 🌱 I’m currently learning **Python, OpenAI, JavaScript**
+- 🌱 I’m currently learning **Python and JavaScript**
 
-- 💬 Ask me about **Python, OpenAI, JavaScript**
+- 🤝 I’m looking to contribute in **open-source** projects
 
 - 📫 How to reach me <a href="mailto:forever120429@gmail.com"><img height="25em" src="https://github.com/morning120429/morning120429/blob/main/gmail.png" alt = "Gmail" /></a>
 - 📫 How to reach me <a href="https://t.me/tech_hosting"><img height="25em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram" /></a>
-
+<br/>
 ## ⚡ Tech Stack
 
 ### 🚀 Languages/Database/Scripting
@@ -58,3 +62,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
 
+<h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ting-prado&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
+
+---
+
+<div align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="600" alt="coding mario gif" /></div>
