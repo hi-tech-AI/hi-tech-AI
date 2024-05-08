@@ -1,4 +1,4 @@
-<h1 align="center"> Senior Python Developer </h1>
+<h1 align="center"> AI/ML Engineer </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
