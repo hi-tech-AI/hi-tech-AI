@@ -3,8 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
 </div>
-<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="320"><img align="center" width="320" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="320"></p>
+<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="300"><img align="center" width="300" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="300"></p>
 <br/>
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages/Database/Scripting
