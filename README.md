@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
 </div>
-<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="280"><img align="center" width="280" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="280"></p>
+<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="200"><img align="center" width="200" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="200"></p>
 <br/>
 
 ## ⚡ Tech Stack
