@@ -3,18 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
 </div>
-<br/>
-<img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadgaming01&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadgaming01" /> </p>
-
-- 🔭 I’m currently working on **Python developer**
-
-- 🌱 I’m currently learning **Python and JavaScript**
-
-- 🤝 I’m looking to contribute in **open-source** projects
-
-- 📫 How to reach me <a href="mailto:forever120429@gmail.com"><img height="25em" src="https://github.com/morning120429/morning120429/blob/main/gmail.png" alt = "Gmail" /></a>
-- 📫 How to reach me <a href="https://t.me/tech_hosting"><img height="25em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram" /></a>
+<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="320"><img align="center" width="320" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="320"></p>
 <br/>
 ## ⚡ Tech Stack
 
@@ -27,10 +16,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-
 ### 💻 Libraries & Framework(Mostly ML/DL)
-
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
