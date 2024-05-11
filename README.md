@@ -2,8 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
-</div>
-<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250"><img align="center" width="250" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250"></p>
+</div><br/>
+<p><img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250", height="250"><img align="center" width="250" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png", height="250"><img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250", height="250"></p>
 <br/>
 
 ## ⚡ Tech Stack
