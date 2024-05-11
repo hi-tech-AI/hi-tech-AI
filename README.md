@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
 </div><br/>
 
-<div  style={{ display: "flex", justifyContent: "space-between" }}>
-  <img align="left" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250", height="250">
-  <img align="center" width="250" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png", height="250">
-  <img align="right" src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250", height="250">
+<div align="center">
+  <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250" height="250">
+  <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png" width="250" height="250">
+  <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250" height="250">
 </div>
 <br/>
 
