@@ -15,7 +15,6 @@
 
 ### 🚀 Languages/Database/Scripting
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,13 +45,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Docker Desktop](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=latand&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=latand&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Latand" /></p>
-
-<h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ting-prado&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
