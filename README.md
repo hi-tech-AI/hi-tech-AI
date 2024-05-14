@@ -10,167 +10,236 @@
 </div><br/>
 
 <div align="center">
-  <h1 align="left"><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
+  <h1><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
   <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250" height="250"></a>
 </div>
 <br/>
 
-<h1>⚡ Tech Stack</h1>
+<h1 align="center">⚡ Tech Stack</h1>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/python/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            <br>Python
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
-      <br>Flask
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/flask-tutorial/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
+            <br>Flask
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/django/index.php">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+            <br>Django
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
-      <br>Selenium
+    <td align="center" width="105">
+        <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
+            <br>LangChain
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-      <br>Tensorflow
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/computer-vision/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
+            <br>OpenCV
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-      <br>Pytorch
+    <td align="center" width="105">
+        <a href="https://www.tensorflow.org/tutorials">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+            <br>Tensorflow
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
-      <br>Scikit
+    <td align="center" width="105">
+        <a href="https://pytorch.org/tutorials/">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+            <br>Pytorch
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br>FastAPI
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
+            <br>ChatGPT
+        </a>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/gen_ai/index.php">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
+            <br>Generative AI
+        </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="105">
+        <a href="https://github.com/mlabonne/llm-course">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
+            <br>LLM
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
+            <br>NLP
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://fastapi.tiangolo.com/tutorial/">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+            <br>FastAPI
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/numpy/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
+            <br>Numpy
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/pandas/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
+            <br>Pandas
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/scipy/index.php">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
+            <br>Scipy
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/datascience/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
+            <br>Data Science
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/selenium-python-tutorial/">
+            <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Selenium" />
+            <br>Selenium
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
+            <br>Beautiful Soup
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="105">
+        <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
+            <br>Scrapy
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://scikit-learn.org/stable/tutorial/index.html">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
+            <br>Scikit
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/docker-tutorial/">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker
+        </a>
+    </td>
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br>NodeJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="105">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <br>Express
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
       <br>NextJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="105"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center"  width="96">
+    <td align="center"  width="105">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="105">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+ </tr>
+<tr>
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
+        <br>Go
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-      <br>Webflow
+        <br>Webflow
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
       <br>Sass
     </td>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
@@ -186,10 +255,10 @@
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/hi-tech-AI?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hi-tech-AI&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/hi-tech-AI?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hi-tech-AI&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@hi-tech-AI's trophy stats"/></a>
 </p>
 
-<b>⚡ Github Stats</b>
+<!-- <b>⚡ Github Stats</b>
     <br />
     <p align="center">
         <a href="https://github.com/hi-tech-AI?tab=repositories">
@@ -203,40 +272,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hi-tech-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-<!-- My previous work -->
-
-### 🚀 Languages/Database/Scripting
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 💻 Libraries & Framework(Mostly ML/DL)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 🧑🏻‍💻 Tools & Platform
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+My previous work -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
