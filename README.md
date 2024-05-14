@@ -1,23 +1,22 @@
-<h1 align="center">
-    <b>AI/ML Engineer, Backend Developer</b><br />
-    Welcome to the <b>World of AI Magic</b><br />
+<h1 align="center"><b>Professional AI/ML Engineer, Backend Developer</b><br /></h1>
+<h2 align="center">Welcome to the <b>World of AI Magic</b><br />
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blue"></a>
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github"></a>
-</h1>
+</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
 </div><br/>
 
 <div align="center">
-  <h1><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
+  <h2><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
   <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250" height="250"></a>
 </div>
 <br/>
 
-<h1 align="center">⚡ Tech Stack</h1>
+<h2 align="center">⚡ Tech Stack</h1>
 <table align="center">
   <tr>
     <td align="center" width="105">
@@ -151,97 +150,96 @@
         </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <a href="https://www.w3schools.com/js/default.asp">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <a href="https://www.w3schools.com/typescript/index.php">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <br>TypeScript
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <a href="https://www.w3schools.com/react/default.asp">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-      <br>NodeJS
+        <a href="https://www.w3schools.com/nodejs/default.asp">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+            <br>NodeJS
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
+        <a href="https://www.w3schools.com/mongodb/index.php">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+            <br>MongoDB
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
+        <a href="https://www.geeksforgeeks.org/express-js/">
+            <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+            <br>Express
+        </a>
     </td>
  </tr>
  <tr>
     <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NextJS
+        <a href="https://www.geeksforgeeks.org/nextjs/">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
+            <br>NextJS
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <a href="https://www.w3schools.com/mysql/default.asp">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br>MySQL
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <a href="https://www.w3schools.com/aws/index.php">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <br>AWS
+        </a>
+    </td>
+    <td align="center"  width="105">
+        <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <a href="https://www.geeksforgeeks.org/tailwind-css/">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </a>
     </td>
     <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+        <a href="https://www.w3schools.com/postgresql/index.php">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+            <br>PostgreSQL
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/jquery/default.asp">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+            <br>jQuery
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+            <br>Github
+        </a>
     </td>
     <td align="center" width="105"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="105">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center"  width="105">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
- </tr>
-<tr>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-        <br>Go
-    </td>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-        <br>Webflow
-    </td>
-    <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
-    </td>
-    </td>
-    <td align="center" width="105">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="105">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <a href="https://www.w3schools.com/git/default.asp">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+            <br>Git
+        </a>
     </td>
  </tr>
 </table>
