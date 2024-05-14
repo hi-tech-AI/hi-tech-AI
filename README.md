@@ -10,44 +10,44 @@
 </div><br/>
 
 <div align="center">
-  <h1><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
+  <h1 align="left"><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
   <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png" width="250" height="250"></a>
   <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250" height="250"></a>
 </div>
 <br/>
 
-## ⚡ Tech Stack
+<h1>⚡ Tech Stack</h1>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.w3schools.com/python/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./assets/jupyter.png" width="65" height="65" alt="Jupyter" />
-      <br>Jupyter
+        <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
       <br>Selenium
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
       <br>Tensorflow
-    </td>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
       <br>Pytorch
     </td>
     <td align="center" width="96">
-        <img src="./assets/scikitlearn.png" alt="Scikit" width="65" height="65" />
+        <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
       <br>Scikit
     </td>
     <td align="center" width="96">
