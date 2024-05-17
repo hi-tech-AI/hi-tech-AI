@@ -1,7 +1,7 @@
 <h1 align="center"><b>Professional AI/ML Engineer, Backend Developer</b><br /></h1>
 <h2 align="center">Welcome to the <b>World of AI Magic</b><br />
-    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blue"></a>
-    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github"></a>
+    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&base=500&label=PROFILE+VIEWS"></a>
+    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
 </h2>
 
 <div id="header" align="center">
