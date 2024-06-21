@@ -3,7 +3,6 @@
 <!--     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&base=500&label=PROFILE+VIEWS"></a> -->
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a><br />
-    <a href="https://www.buymeacoffee.com/HITECHAI"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=HITECHAI&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </h2>
 
 <div id="header" align="center">
