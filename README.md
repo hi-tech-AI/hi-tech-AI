@@ -1,13 +1,54 @@
-<h1 align="center"><b>Professional AI/ML Engineer, Backend Developer</b><br /></h1>
-<h2 align="center">Welcome to the <b>World of AI Magic</b><br />
-<!--     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&base=500&label=PROFILE+VIEWS"></a> -->
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;Seniors/&gt;!
+</h1>
+<p align="center">
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
-    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a><br />
-</h2>
+    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
+    <img src="https://img.shields.io/github/stars/hi-tech-AI?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
-</div><br/>
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Python 𝚊𝚗𝚍 AI 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Web Development and Trading.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Ruby on Rails.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hi-tech-AI/hi-tech-AI/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- ⚡ 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- 😄 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+<br />
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hi-tech-AI&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-tech-AI&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="right.webp"/>
+</p>
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>
 
 <div align="center">
   <h2><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
@@ -251,27 +292,3 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=hi-tech-AI&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
-
-<p align="center">
-<a href="https://github.com/hi-tech-AI?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hi-tech-AI&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@hi-tech-AI's trophy stats"/></a>
-</p>
-
-<!-- <b>⚡ Github Stats</b>
-    <br />
-    <p align="center">
-        <a href="https://github.com/hi-tech-AI?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hi-tech-AI&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hi-tech-AI&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p>
-</p>
-<b>☄️ Github Streaks</b><br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-tech-AI&theme=gotham&hide_border=true" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hi-tech-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-My previous work -->
-
-<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
