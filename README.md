@@ -2,25 +2,25 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;Seniors/&gt;!
 </h1>
 <p align="center">
-    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
-    <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hi-tech-AI?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
-    <img src="https://img.shields.io/github/stars/hi-tech-AI?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
+    <a href="http://github.com/py-master-dev?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=py-master-dev&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
+    <a href="http://github.com/py-master-dev?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/py-master-dev?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
+    <img src="https://img.shields.io/github/stars/py-master-dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Python 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AI Development and Trading.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Scraping & Data Extraction**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/py-master/py-master/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/py-master-dev/py-master-dev/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - 😄 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
 <br />
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hi-tech-AI&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=py-master-dev&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-tech-AI&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py-master-dev&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="right.webp"/>
 </p>
 
@@ -52,9 +52,9 @@
 
 <div align="center">
   <h2><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
-  <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify1.png" width="250" height="250"></a>
-  <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify2.png" width="250" height="250"></a>
-  <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/certify3.png" width="250" height="250"></a>
+  <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/py-master-dev/py-master-dev/blob/main/certify1.png" width="250" height="250"></a>
+  <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/py-master-dev/py-master-dev/blob/main/certify2.png" width="250" height="250"></a>
+  <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/py-master-dev/py-master-dev/blob/main/certify3.png" width="250" height="250"></a>
 </div>
 <br/>
 
@@ -69,7 +69,7 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/flask-tutorial/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/flask.png" width="65" height="65" alt="Flask" />
             <br>Flask
         </a>
     </td>
@@ -81,13 +81,13 @@
     </td>
     <td align="center" width="105">
         <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
             <br>LangChain
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/computer-vision/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
             <br>OpenCV
         </a>
     </td>
@@ -105,13 +105,13 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
             <br>ChatGPT
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/gen_ai/index.php">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
             <br>Generative AI
         </a>
     </td>
@@ -119,13 +119,13 @@
   <tr>
     <td align="center" width="105">
         <a href="https://github.com/mlabonne/llm-course">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
             <br>LLM
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
             <br>NLP
         </a>
     </td>
@@ -137,25 +137,25 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
             <br>Numpy
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/pandas/default.asp">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
             <br>Pandas
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/scipy/index.php">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
             <br>Scipy
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/datascience/default.asp">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
             <br>Data Science
         </a>
     </td>
@@ -167,7 +167,7 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
             <br>Beautiful Soup
         </a>
     </td>
@@ -175,13 +175,13 @@
   <tr>
     <td align="center" width="105">
         <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
             <br>Scrapy
         </a>
     </td>
     <td align="center" width="105">
         <a href="https://scikit-learn.org/stable/tutorial/index.html">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
+            <img src="https://github.com/py-master-dev/py-master-dev/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
             <br>Scikit
         </a>
     </td>
@@ -288,7 +288,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=hi-tech-AI&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hi-tech-AI&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=py-master-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=py-master-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
