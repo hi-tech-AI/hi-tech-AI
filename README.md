@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, I'm a Lead Backend Developer
+  𝐇𝐞𝐥𝐥𝐨, I'm an AI Engineer & Backend Developer
 </h1>
 <p align="center">
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/stars/hi-tech-AI?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
 </p>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Lead Backend Developer**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **AI Engineer & Backend Developer**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Smart Contract & Frontend Development**
 - 👯 Sometimes I do something fun : **Web Scraping & Bot Development**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hi-tech-AI/hi-tech-AI/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
